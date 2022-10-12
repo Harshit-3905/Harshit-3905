@@ -1,7 +1,11 @@
 <h1 align="center">Hey 👋, I'm Harshit Joshi</h1>
 
+
+
 <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="My Project GIF" width="500" height="300">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width=250" height="300"></p>
+
+[![@harshit_3905's Holopin board](https://holopin.me/harshit_3905)](https://holopin.io/@harshit_3905)
 
 <h3 align="center">A Passionate Developer from India</h3>
 
