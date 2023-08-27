@@ -68,6 +68,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Harshit-3905&icon=2&color=3)](https://visitcount.itsvg.in)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Harshit-3905)
 
 
