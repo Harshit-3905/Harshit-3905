@@ -29,14 +29,14 @@
 <h2>⚙️ Projects  </h2>
 <div align = "center">
 
-| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | 
-|-----------|-----------|-----------|-----------|
-| ChatVerse - RealTime Chat Application | [Code](https://github.com/Harshit-3905/ChatVerse) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | [Website]() |
-| Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```HTML``` ```CSS``` ```Javascript```| [Website](https://harshitjoshi.netlify.app/) |
-| Calculator  | [Code](https://github.com/Harshit-3905/Calculator) | ```HTML``` ```CSS``` ```Javascript```| [Website](https://harshitjoshi-calculator.netlify.app/) |
-| Tell Me a Joke | [Code](https://github.com/Harshit-3905/Tell_Me_A_Joke) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API```| [Website](https://harshitjoshi-tellmeajoke.netlify.app/) |
-| Stopwatch | [Code](https://github.com/Harshit-3905/Stopwatch) | ```HTML``` ```CSS``` ```Javascript```| [Website](https://harshitjoshi-stopwatch.netlify.app/) |
-| Image Background Remover | [Code](https://github.com/Harshit-3905/Image_Background_Remover) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API``` | [Website](https://harshitjoshi-imagebackgroundremover.netlify.app/) |
+| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
+|-----------|-----------|-----------|-----------|-----------|
+| ChatVerse - RealTime Chat Application | [Code](https://github.com/Harshit-3905/ChatVerse) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
+| Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://harshitjoshi.netlify.app/) |
+| Calculator  | [Code](https://github.com/Harshit-3905/Calculator) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```| [Website](https://harshitjoshi-calculator.netlify.app/) |
+| Tell Me a Joke | [Code](https://github.com/Harshit-3905/Tell_Me_A_Joke) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API```| ```Frontend```| [Website](https://harshitjoshi-tellmeajoke.netlify.app/) |
+| Stopwatch | [Code](https://github.com/Harshit-3905/Stopwatch) | ```HTML``` ```CSS``` ```Javascript```|```Frontend```| [Website](https://harshitjoshi-stopwatch.netlify.app/) |
+| Image Background Remover | [Code](https://github.com/Harshit-3905/Image_Background_Remover) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API``` |```Frontend```| [Website](https://harshitjoshi-imagebackgroundremover.netlify.app/) |
 </div>
 
 ---
