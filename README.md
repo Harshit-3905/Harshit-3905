@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Harshit Joshi</h1>
 
-
 <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="My Project GIF" width="500" height="300">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width=250" height="300"></p>
 
@@ -12,7 +11,6 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Project<br>🌱 I’m currently learning Web Development<br>📫 How to reach me its.harshit.joshi.official@gmail.com
-
 
 ---
 
@@ -55,7 +53,6 @@
 
 ## 🏆 GitHub Trophies
 
-
 ![](https://github-profile-trophy.vercel.app/?username=Harshit-3905&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -63,12 +60,8 @@
 
 ### ✍️ Quote
 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Harshit-3905)
-
-
