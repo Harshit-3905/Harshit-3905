@@ -28,6 +28,7 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
+| TaskTracker | [Code](https://github.com/Harshit-3905/Task_Tracker) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website]()
 | ChatVerse - RealTime Chat Application (In Progress) | [Code](https://github.com/Harshit-3905/ChatVerse) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
 | Movie Recommendation System | [Code](https://github.com/Harshit-3905/Movie-Recommendation-System) | ```Python```  | ```MachineLearning``` | None |
 | Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://harshitjoshi.netlify.app/) |
