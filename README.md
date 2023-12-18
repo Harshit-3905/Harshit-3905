@@ -32,7 +32,7 @@
 | ChatVerse - RealTime Chat Application (In Progress) | [Code](https://github.com/Harshit-3905/ChatVerse) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
 | Movie Recommendation System | [Code](https://github.com/Harshit-3905/Movie-Recommendation-System) | ```Python```  | ```MachineLearning``` | None |
 | Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://harshitjoshi.netlify.app/) |
-| Trick-or-Trivia | [Code]([https://github.com/Harshit-3905/Portfolio_Website](https://github.com/Harshit-3905/Trick-Or-Trivia) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://trick-or-trivia.vercel.app/) |
+| Trick-or-Trivia | [Code](https://github.com/Harshit-3905/Trick-Or-Trivia) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://trick-or-trivia.vercel.app/) |
 | Calculator  | [Code](https://github.com/Harshit-3905/Calculator) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```| [Website](https://harshitjoshi-calculator.netlify.app/) |
 | Tell Me a Joke | [Code](https://github.com/Harshit-3905/Tell_Me_A_Joke) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API```| ```Frontend```| [Website](https://harshitjoshi-tellmeajoke.netlify.app/) |
 | Stopwatch | [Code](https://github.com/Harshit-3905/Stopwatch) | ```HTML``` ```CSS``` ```Javascript```|```Frontend```| [Website](https://harshitjoshi-stopwatch.netlify.app/) |
