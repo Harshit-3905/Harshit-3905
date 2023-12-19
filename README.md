@@ -2,7 +2,6 @@
 <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="My Project GIF" width="500" height="300">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width=250" height="300"></p>
 
-[![@harshit_3905's Holopin board](https://holopin.me/harshit_3905)](https://holopin.io/@harshit_3905)
 
 <h3 align="center">A Passionate Developer from India</h3>
 
@@ -28,7 +27,7 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
-| TaskTracker | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website](https://task-tracker-us2h.onrender.com)
+| TaskTracker - Ultimate Productivity Tool | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website](https://task-tracker-us2h.onrender.com)
 | ChatVerse - RealTime Chat Application (In Progress) | [Code](https://github.com/Harshit-3905/ChatVerse) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
 | Movie Recommendation System | [Code](https://github.com/Harshit-3905/Movie-Recommendation-System) | ```Python```  | ```MachineLearning``` | None |
 | Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://harshitjoshi.netlify.app/) |
