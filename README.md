@@ -8,7 +8,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Project<br>🌱 I’m currently learning Web Development<br>📫 How to reach me its.harshit.joshi.official@gmail.com
+🔭 I’m currently working on Full Stack Project<br>🌱 I’m currently learning Web Development<br>📫 How to reach me harshitjoshidev@gmail.com
 
 ---
 
