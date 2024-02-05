@@ -26,11 +26,12 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
+| VideoTube | [Backend](https://github.com/Harshit-3905/VideoTube-Backend) | ```NodeJS``` ```ExpressJS``` ```MongoDB``` | ```Backemd``` | NA
 | TaskTracker - Ultimate Productivity Tool | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website](https://task-tracker-us2h.onrender.com)
 | Binary Blogs | [Code](https://github.com/Harshit-3905/Binary-Blogs)  |  ```ReactJS``` ```TailwindCSS``` ```Redux``` ```Appwrite``` | ```Frontend``` | [Website](https://binary-blogs.onrender.com/)
 | ChatVerse - RealTime Chat Application (In Progress) | [Frontend](https://github.com/Harshit-3905/ChatVerse-Frontend) [Backend](https://github.com/Harshit-3905/ChatVerse-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
 | Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```React``` ```ChakraUI```| ```Frontend```|  [Website](https://harshitjoshi.netlify.app/) |
-| Movie Recommendation System | [Code](https://github.com/Harshit-3905/Movie-Recommendation-System) | ```Python```  | ```MachineLearning``` | None |
+| Movie Recommendation System | [Code](https://github.com/Harshit-3905/Movie-Recommendation-System) | ```Python```  | ```MachineLearning``` | NA |
 | Trick-or-Trivia | [Code](https://github.com/Harshit-3905/Trick-Or-Trivia) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://trick-or-trivia.vercel.app/) |
 | Calculator  | [Code](https://github.com/Harshit-3905/Calculator) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```| [Website](https://harshitjoshi-calculator.netlify.app/) |
 | Tell Me a Joke | [Code](https://github.com/Harshit-3905/Tell_Me_A_Joke) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API```| ```Frontend```| [Website](https://harshitjoshi-tellmeajoke.netlify.app/) |
