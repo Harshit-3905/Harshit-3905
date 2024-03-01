@@ -28,6 +28,7 @@
 |-----------|-----------|-----------|-----------|-----------|
 | VideoTube | [Backend](https://github.com/Harshit-3905/VideoTube-Backend) | ```NodeJS``` ```ExpressJS``` ```MongoDB``` | ```Backend``` | [Documentation](https://documenter.getpostman.com/view/25112902/2s9Yywdz2v)
 | TaskTracker - Ultimate Productivity Tool | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website](https://task-tracker-us2h.onrender.com)
+| AudioAlley | [Code](https://github.com/Harshit-3905/AudioAlley) | ```NextJS``` ```TailwindCsS``` ```ShadCN``` | ```Frontend``` | [Website]()
 | Binary Blogs | [Code](https://github.com/Harshit-3905/Binary-Blogs)  |  ```ReactJS``` ```TailwindCSS``` ```Redux``` ```Appwrite``` | ```Frontend``` | [Website](https://binary-blogs.onrender.com/)
 | ChatVerse - RealTime Chat Application (In Progress) | [Frontend](https://github.com/Harshit-3905/ChatVerse-Frontend) [Backend](https://github.com/Harshit-3905/ChatVerse-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
 | Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```React``` ```ChakraUI```| ```Frontend```|  [Website](https://harshitjoshi.netlify.app/) |
