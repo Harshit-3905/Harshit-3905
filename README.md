@@ -28,16 +28,11 @@
 |-----------|-----------|-----------|-----------|-----------|
 | VideoTube | [Backend](https://github.com/Harshit-3905/VideoTube-Backend) | ```NodeJS``` ```ExpressJS``` ```MongoDB``` ```Docker``` ```Redis```| ```Backend``` | [Documentation](https://documenter.getpostman.com/view/25112902/2s9Yywdz2v)
 | TaskTracker - Ultimate Productivity Tool | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website](https://task-tracker-us2h.onrender.com)
+| PayEase | [Frontend](https://github.com/Harshit-3905/PayEase-Frontend)  [Backend](https://github.com/Harshit-3905/PayEase-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```TailwindCSS``` ```Typescript``` | ```Full Stack``` | [Website]()
 | AudioAlley | [Code](https://github.com/Harshit-3905/AudioAlley) | ```NextJS``` ```TailwindCSS``` ```Acertinity UI``` | ```Frontend``` | [Website](https://audioalley.vercel.app/)
 | Binary Blogs | [Code](https://github.com/Harshit-3905/Binary-Blogs)  |  ```ReactJS``` ```TailwindCSS``` ```Redux``` ```Appwrite``` | ```Frontend``` | [Website](https://binary-blogs.onrender.com/)
 | ChatVerse - RealTime Chat Application (In Progress) | [Frontend](https://github.com/Harshit-3905/ChatVerse-Frontend) [Backend](https://github.com/Harshit-3905/ChatVerse-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
 | Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```React``` ```ChakraUI```| ```Frontend```|  [Website](https://harshitjoshi.netlify.app/) |
-| Movie Recommendation System | [Code](https://github.com/Harshit-3905/Movie-Recommendation-System) | ```Python```  | ```MachineLearning``` | NA |
-| Trick-or-Trivia | [Code](https://github.com/Harshit-3905/Trick-Or-Trivia) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```|  [Website](https://trick-or-trivia.vercel.app/) |
-| Calculator  | [Code](https://github.com/Harshit-3905/Calculator) | ```HTML``` ```CSS``` ```Javascript```| ```Frontend```| [Website](https://harshitjoshi-calculator.netlify.app/) |
-| Tell Me a Joke | [Code](https://github.com/Harshit-3905/Tell_Me_A_Joke) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API```| ```Frontend```| [Website](https://harshitjoshi-tellmeajoke.netlify.app/) |
-| Stopwatch | [Code](https://github.com/Harshit-3905/Stopwatch) | ```HTML``` ```CSS``` ```Javascript```|```Frontend```| [Website](https://harshitjoshi-stopwatch.netlify.app/) |
-| Image Background Remover | [Code](https://github.com/Harshit-3905/Image_Background_Remover) | ```HTML``` ```CSS``` ```Javascript``` ```Rest API``` |```Frontend```| [Website](https://harshitjoshi-imagebackgroundremover.netlify.app/) |
 </div>
 
 ---
