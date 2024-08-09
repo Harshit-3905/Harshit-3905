@@ -26,7 +26,8 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
-| VideoTube | [Backend](https://github.com/Harshit-3905/VideoTube-Backend) | ```NodeJS``` ```ExpressJS``` ```MongoDB``` ```Docker``` ```Redis```| ```Backend``` | [Documentation](https://documenter.getpostman.com/view/25112902/2s9Yywdz2v)
+| VideoTube | [Frontend](https://github.com/Harshit-3905/VideoTube-Frontend) [Backend](https://github.com/Harshit-3905/VideoTube-Backend) | ```React``` ```ShadCN``` ```NodeJS``` ```ExpressJS``` ```MongoDB``` ```Docker``` ```Redis```| ```Backend``` | [Documentation](https://documenter.getpostman.com/view/25112902/2s9Yywdz2v)
+| CodeMart | [Frontend](https://github.com/Harshit-3905/CodeMart-Frontend)  [Backend](https://github.com/Harshit-3905/CodeMart-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```PostgreSQL``` ```TailwindCSS``` ```Redux``` | ```Full Stack``` | [Website]()
 | TaskTracker - Ultimate Productivity Tool | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website](https://task-tracker-us2h.onrender.com)
 | PayEase | [Frontend](https://github.com/Harshit-3905/PayEase-Frontend)  [Backend](https://github.com/Harshit-3905/PayEase-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```TailwindCSS``` ```Typescript``` | ```Full Stack``` | [Website]()
 | AudioAlley | [Code](https://github.com/Harshit-3905/AudioAlley) | ```NextJS``` ```TailwindCSS``` ```Acertinity UI``` | ```Frontend``` | [Website](https://audioalley.vercel.app/)
