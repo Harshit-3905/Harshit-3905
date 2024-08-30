@@ -33,7 +33,7 @@
 | AudioAlley | [Code](https://github.com/Harshit-3905/AudioAlley) | ```NextJS``` ```TailwindCSS``` ```Acertinity UI``` | ```Frontend``` | [Website](https://audioalley.vercel.app/)
 | Binary Blogs | [Code](https://github.com/Harshit-3905/Binary-Blogs)  |  ```ReactJS``` ```TailwindCSS``` ```Redux``` ```Appwrite``` | ```Frontend``` | [Website](https://binary-blogs.onrender.com/)
 | ChatVerse - RealTime Chat Application (In Progress) | [Frontend](https://github.com/Harshit-3905/ChatVerse-Frontend) [Backend](https://github.com/Harshit-3905/ChatVerse-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
-| Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio_Website) | ```Next.js``` ```Typescript``` ```TailwindCSS```| ```Frontend```|  [Website](https://www.harshitjoshi.me/) |
+| Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio-Website-Latest) | ```Next.js``` ```Typescript``` ```TailwindCSS```| ```Frontend```|  [Website](https://www.harshitjoshi.me/) |
 </div>
 
 ---
