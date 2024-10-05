@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Harshit Joshi</h1>
-<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="My Project GIF" width="500" height="300">
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width=250" height="300"></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="My Project GIF" width="500" height="300">
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="My Project GIF" width=250" height="300"></p> -->
 
 <h3 align="center">A Passionate Developer from India</h3>
 
@@ -26,14 +26,14 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Domain</h3> | <h3>Live</h3> | 
 |-----------|-----------|-----------|-----------|-----------|
-| VideoTube | [Frontend](https://github.com/Harshit-3905/VideoTube-Frontend) [Backend](https://github.com/Harshit-3905/VideoTube-Backend) | ```React``` ```ShadCN``` ```NodeJS``` ```ExpressJS``` ```MongoDB``` ```Docker``` ```Redis```| ```Backend``` | [Documentation](https://documenter.getpostman.com/view/25112902/2s9Yywdz2v)
-| CodeMart | [Code](https://github.com/Harshit-3905/CodeMart) | ```HonoJS``` ```ReactJS``` ```PostgreSQL``` ```TailwindCSS``` ```Prisma``` ```Cloudflare Pages``` ```Cloudflare Workers``` | ```Full Stack``` | [Website](https://codemart.harshit-joshi.tech/)
-| TaskTracker - Ultimate Productivity Tool | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```Full Stack``` | [Website](https://task-tracker-us2h.onrender.com)
+| VideoTube | [Frontend](https://github.com/Harshit-3905/VideoTube-Frontend) [Backend](https://github.com/Harshit-3905/VideoTube-Backend) | ```React``` ```ShadCN``` ```NodeJS``` ```ExpressJS``` ```MongoDB``` ```Docker``` ```Redis```| ```FullStack``` | [Website](https://videotube.harshit-joshi.tech/)
 | Binary Blogs | [Code](https://github.com/Harshit-3905/Binary-Blogs)  |  ```ReactJS``` ```TailwindCSS``` ```Redux``` ```Appwrite```  ```AWS S3``` ```AWS Cloudfront```| ```Frontend``` | [Website](https://binary-blogs.harshit-joshi.tech/)
-| PayEase | [Frontend](https://github.com/Harshit-3905/PayEase-Frontend)  [Backend](https://github.com/Harshit-3905/PayEase-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```TailwindCSS``` ```Typescript``` | ```Full Stack``` | [Website]()
+| CodeMart | [Code](https://github.com/Harshit-3905/CodeMart) | ```HonoJS``` ```ReactJS``` ```PostgreSQL``` ```TailwindCSS``` ```Prisma``` ```Cloudflare Pages``` ```Cloudflare Workers``` | ```FullStack``` | [Website](https://codemart.harshit-joshi.tech/)
+| Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio-Website-Latest) | ```Next.js``` ```Typescript``` ```TailwindCSS``` ```Framer Motion```| ```Frontend```|  [Website](https://www.harshitjoshi.me/) |
+| TaskTracker - Ultimate Productivity Tool | [Frontend](https://github.com/Harshit-3905/Task_Tracker)  [Backend](https://github.com/Harshit-3905/Task_Tracker_Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` ```Redux``` | ```FullStack``` | [Website](https://task-tracker-us2h.onrender.com)
+| PayEase | [Frontend](https://github.com/Harshit-3905/PayEase-Frontend)  [Backend](https://github.com/Harshit-3905/PayEase-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```TailwindCSS``` ```Typescript``` | ```FullStack``` | [Website]()
 | AudioAlley | [Code](https://github.com/Harshit-3905/AudioAlley) | ```NextJS``` ```TailwindCSS``` ```Acertinity UI``` | ```Frontend``` | [Website](https://audioalley.vercel.app/)
-| ChatVerse - RealTime Chat Application (In Progress) | [Frontend](https://github.com/Harshit-3905/ChatVerse-Frontend) [Backend](https://github.com/Harshit-3905/ChatVerse-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
-| Personal Portfolio Website | [Code](https://github.com/Harshit-3905/Portfolio-Website-Latest) | ```Next.js``` ```Typescript``` ```TailwindCSS```| ```Frontend```|  [Website](https://www.harshitjoshi.me/) |
+| ChatVerse | [Frontend](https://github.com/Harshit-3905/ChatVerse-Frontend) [Backend](https://github.com/Harshit-3905/ChatVerse-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
 </div>
 
 ---
