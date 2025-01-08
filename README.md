@@ -34,6 +34,8 @@
 | PayEase | [Frontend](https://github.com/Harshit-3905/PayEase-Frontend)  [Backend](https://github.com/Harshit-3905/PayEase-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```TailwindCSS``` ```Typescript``` | ```FullStack``` | [Website]()
 | AudioAlley | [Code](https://github.com/Harshit-3905/AudioAlley) | ```NextJS``` ```TailwindCSS``` ```Acertinity UI``` | ```Frontend``` | [Website](https://audioalley.vercel.app/)
 | ChatVerse | [Frontend](https://github.com/Harshit-3905/ChatVerse-Frontend) [Backend](https://github.com/Harshit-3905/ChatVerse-Backend) | ```NodeJS``` ```ExpressJS``` ```ReactJS``` ```MongoDB``` ```ChakraUI``` | ```FullStack``` | [Website]() |
+| Rule Engine | [Code](https://github.com/Harshit-3905/Rule_Engine) | ```React``` ```TypeScript``` ```Tailwind CSS``` ```Node.js``` ```Express``` ```MongoDB``` | ```FullStack``` | [Website](https://rule-engine.harshit-joshi.tech) |
+| Weather Monitoring | [Code](https://github.com/Harshit-3905/Weather-Monitoring) | ```React``` ```TypeScript``` ```Tailwind CSS``` ```Node.js``` ```Express``` ```PostgreSQL```  | ```FullStack``` | [Website](https://weather-monitoring.harshit-joshi.tech) |
 </div>
 
 ---
